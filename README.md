@@ -108,14 +108,13 @@ Linux / macOS
 
 📷 Screenshots (Sample Outputs) Main Menu === Vendor & Purchase Order Management System ===
 
-Add Vendor
-List Vendors
-Add Purchase Order
-List Purchase Orders
-Exit Enter your choice:
-Sample Vendor Entry Enter vendor name: ABC Supplies Enter vendor phone: 555-9012 Vendor added successfully! ID = 1
+<img width="441" height="361" alt="Screenshot 2025-12-01 105205" src="https://github.com/user-attachments/assets/750841d6-06e8-40e7-b076-c3cf3f6a82e5" />
+<img width="428" height="426" alt="Screenshot 2025-12-01 105223" src="https://github.com/user-attachments/assets/5eb01ac6-794d-4725-b923-58a593877df3" />
+<img width="400" height="387" alt="Screenshot 2025-12-01 105257" src="https://github.com/user-attachments/assets/26f01eec-5e79-4d91-8074-55dc91b10a8f" />
+<img width="423" height="359" alt="Screenshot 2025-12-01 105414" src="https://github.com/user-attachments/assets/7eb61abb-4b00-4e0e-8b9f-81df1a093687" />
+<img width="523" height="546" alt="Screenshot 2025-12-01 105454" src="https://github.com/user-attachments/assets/0122a6f3-7d6a-487b-8943-1c7e3c3bf1d5" />
 
-Sample Purchase Order Entry Enter Vendor ID: 1 Enter item name: Printer Paper Enter quantity: 20 Enter price: 150.50 Purchase order created successfully! Order ID = 1
+
 
 Sample Listing
 
